@@ -1,20 +1,36 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
 
+<!--    &lt;!&ndash; Custom &ndash;&gt;-->
+<!--    <string name="app_name">Linphone</string>-->
+<!--    <string name="service_name">Linphone Service</string>-->
+<!--    <string name="addressbook_label">Linphone</string>-->
+<!--    <string name="notification_title">Linphone</string>-->
+<!--    <string name="wait_dialog_text">Starting up</string>-->
+<!--    <string name="notification_registered">%s connected</string>-->
+<!--    <string name="notification_register_failure">%s failed to connect</string>-->
+<!--    <string name="tunnel_host"></string>-->
+<!--    <string name="about_version">Linphone Android %s</string>-->
+<!--    <string name="about_liblinphone_version">Linphone Core %s</string>-->
+<!--    <string name="about_liblinphone_sdk_version">Linphone SDK %s</string>-->
+<!--    <string name="about_privacy_policy">Visit our privacy policy</string>-->
+<!--    <string name="sync_account_name">linphone contacts</string>-->
+
     <!-- Custom -->
-    <string name="app_name">Linphone</string>
-    <string name="service_name">Linphone Service</string>
-    <string name="addressbook_label">Linphone</string>
-    <string name="notification_title">Linphone</string>
+    <string name="app_name">Talk2</string>
+    <string name="service_name">Talk2 Service</string>
+    <string name="addressbook_label">Talk2</string>
+    <string name="notification_title">Talk2</string>
     <string name="wait_dialog_text">Starting up</string>
     <string name="notification_registered">%s connected</string>
     <string name="notification_register_failure">%s failed to connect</string>
     <string name="tunnel_host"></string>
-    <string name="about_version">Linphone Android %s</string>
-    <string name="about_liblinphone_version">Linphone Core %s</string>
-    <string name="about_liblinphone_sdk_version">Linphone SDK %s</string>
+    <string name="about_version">Talk2 Android %s</string>
+    <string name="about_liblinphone_version">Talk2 Core %s</string>
+    <string name="about_liblinphone_sdk_version">Talk2 SDK %s</string>
     <string name="about_privacy_policy">Visit our privacy policy</string>
     <string name="sync_account_name">linphone contacts</string>
+
 
     <!-- Notifications -->
     <string name="notification_reply_label">Reply</string>
